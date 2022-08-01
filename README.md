@@ -1,2 +1,4 @@
 # Exercise
-repository
+
+## Example
+[**George Koumpouras**](https://github.com/georkoump)
